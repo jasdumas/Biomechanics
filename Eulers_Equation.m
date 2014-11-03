@@ -1,4 +1,5 @@
 clear all
+% 'Biomechanics and Motor Control of Human Movement' by David Winter (4th edition)
 % Sample kinematic data set
 % saved as TEST.m
  
